@@ -1,0 +1,49 @@
+body {
+    justify-content: center;
+    background-image: linear-gradient(to right, #000000, #ffd700);
+}
+
+* {
+    margin: 0%;
+    padding: auto;
+}
+
+#titulo {
+    justify-content: center;
+    font-family: sans-serif;
+    color: #daa520;
+    margin-top: 35px;
+    margin-left: 45%;
+  margin-left: 45%;
+}
+
+#subtitulo {
+    justify-content: center;
+    font-family: sans-serif;
+    color: #f5fffa;
+    margin-top: 15px;
+    margin-left: 35%;
+
+}
+
+.campo {
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 0.5em;
+    color: #f5fffa;
+    margin-left: 35%;
+
+}
+
+.campo label {
+    justify-content: center;
+    margin-bottom: 1.5em;
+    display: block;
+}
+
+.grupo {
+    justify-content: center;
+    margin-top: 40px;
+    color: #f5fffa;
+    margin-left: 35%;
+}
